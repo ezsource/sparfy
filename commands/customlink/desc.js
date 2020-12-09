@@ -3,7 +3,7 @@ const db = require("better-sqlite3")("./database.db");
 module.exports = {
     name: "opis",
     aliases: ["desc"],
-    permission: "MANAGE_GUILD",
+    perm: "MANAGE_GUILD",
     run: async (bot, msg, args) => {
         const link = db.prepare("SELECT * FROM links WHERE guildId = ?").get(msg.guild.id);
 
