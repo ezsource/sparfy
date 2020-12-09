@@ -1,0 +1,18 @@
+**🎉 Nie wiesz jak WYPROMOWAĆ**  *``swój serwer discord?!?``*
+
+**🔗 Chciałbyś mieć** **WYJĄTKOWY** *``LINK twojego serwera?!?``*
+
+**📯 Nasz BOT posiada funkcję __CUSTOM LINKU__ , oferujemy:** **```css
+ [1] LATWY LINK do zapamietania
+ [2] DARMOWA strone serwera
+ [3] WYJATKOWY LINK nalezacy TYLKO do twojego serwera```**
+**⭐ Nasz BOT zadba rownież o __REKLAMOWANIE__ twojego serwera, oferując: **
+**```css
+[1] DARMOWA reklame w cyklu bota
+[2] LATWA konfiguracje bota z serwerem
+[3] SPROSTA oczekiwaniom BARDZIEJ WYMAGAJACYCH uzytkownikow```**
+*``link do autoryzacji bota 🔗``*
+https://discordapp.com/api/oauth2/authorize?client_id=695270481779228772&permissions=8&scope=bot
+
+*``link do naszej strony 🌐``*
+ https://sparfy.pl/
