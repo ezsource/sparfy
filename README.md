@@ -12,3 +12,5 @@ First install node.js ;)
 5. Enjoy!
 
 This is all!
+
+### More tutorial how to setup? [**`HERE`**](https://github.com/ezsource/sparfy/wiki)
